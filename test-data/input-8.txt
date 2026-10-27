@@ -1,0 +1,5 @@
+# Ha a soron kovetkezo tar ures (primer), a hajo a masik (szekunder) tarbol probal loni
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+
