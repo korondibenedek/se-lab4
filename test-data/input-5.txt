@@ -1,0 +1,3 @@
+# Az ALL mod megprobal mindket tarbol loni, es sikeres, ha legalabb egyet kilott
+GT4500,1,0,1,0
+TORPEDO,ALL

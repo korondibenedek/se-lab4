@@ -1,0 +1,3 @@
+SUCCESS # GT4500
+SUCCESS # TORPEDO,SINGLE (primer)
+SUCCESS # TORPEDO,SINGLE (szekunder ures, igy ujra primer)

@@ -1,0 +1,3 @@
+# Ha a tuzelo tar hibat jelez, a hajo nem probalkozik a masik tarral
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE

@@ -1,0 +1,5 @@
+# Ha mindket tar kiurul, miutan a primer lott, nem lehet tobbet loni
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+

@@ -1,0 +1,3 @@
+# Az ALL mod sikeres marad, ha csak az egyik tarbol tud loni
+GT4500,0,0,1,0
+TORPEDO,ALL

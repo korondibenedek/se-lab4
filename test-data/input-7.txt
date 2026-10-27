@@ -1,0 +1,4 @@
+# Ures torpedotarral nem lehet tuzelni
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL
